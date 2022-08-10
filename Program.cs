@@ -8,13 +8,13 @@ namespace program
     { 
         static void Main(string[] args) 
         { 
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!\n\nBelow are the results of each code challenge.\n");
 
-            Console.WriteLine($"Is Edabit Code Challenges working? {HowEdabitWorks.ReturnTrue()}.");
+            Console.WriteLine($"Is Edabit Code Challenges working?\n{HowEdabitWorks.ReturnTrue()}.\n");
 
-            Console.WriteLine($"The sum of 5 + 3 equals {ReturnSumOfTwoNumbers.Sum(5, 3)}.");
+            Console.WriteLine($"The sum of 5 + 3 = {ReturnSumOfTwoNumbers.Sum(5, 3)}.\n");
 
-            Console.WriteLine($"60 minutes converted to seconds equals {ConvertMinToSeconds.convert(60)} seconds.");
+            Console.WriteLine($"60 minutes converted to seconds = {ConvertMinToSeconds.convert(60)} seconds.\n");
         }
     }
 }
