@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EdabitCodePractice.CodeChallenges
 {
-    internal class ReturnSumOfTwoNumbers
+    public class ReturnSumOfTwoNumbers
     {
         public static int Sum(int a, int b)
         {

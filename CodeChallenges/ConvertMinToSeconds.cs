@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EdabitCodePractice.CodeChallenges
 {
-    internal class ConvertMinToSeconds
+    public class ConvertMinToSeconds
     {
         public static int convert(int minutes)
         {

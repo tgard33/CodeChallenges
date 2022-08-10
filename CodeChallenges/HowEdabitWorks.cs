@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EdabitCodePractice.CodeChallenges
 {
-    internal class HowEdabitWorks
+    public class HowEdabitWorks
     {
         public static bool ReturnTrue()
         {
