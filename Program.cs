@@ -18,7 +18,9 @@ namespace program
 
             Console.WriteLine($"After 2 comes {ReturnNextNumberFromIntPassed.Addition(2)}.\n");
 
-            Console.WriteLine($"If the circuit power has a voltage of 110 and a current of 3 it has {VoltageAndCurrentToPower.CircuitPower(110, 3)} power.");
+            Console.WriteLine($"If the circuit power has a voltage of 110 and a current of 3 it has {VoltageAndCurrentToPower.CircuitPower(110, 3)} power.\n");
+
+            Console.WriteLine($"The opposite of the boolean value True, is {FlipTheBoolean.Reverse(true)}.\n");
         }
     }
 }
