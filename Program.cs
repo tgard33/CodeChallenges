@@ -21,6 +21,21 @@ namespace program
             Console.WriteLine($"If the circuit power has a voltage of 110 and a current of 3 it has {VoltageAndCurrentToPower.CircuitPower(110, 3)} power.\n");
 
             Console.WriteLine($"The opposite of the boolean value True, is {FlipTheBoolean.Reverse(true)}.\n");
+
+            Console.WriteLine($"The age 25 converted to days = {ConvertAgeToDays.CalcAge(25)}.\n");
+            
+            Console.WriteLine($"The area of a triangle with a base of 7 and height of 4 = {AreaOfTriangle.triArea(7,4)}.\n");
+
+            Console.WriteLine($"The remainder of two number (-9 and 45) = {RemaindersOfTwoNum.Remainder(-9,45)}.\n");
+
+            Console.WriteLine($"Is 10 less than or equal to 0?\n{NumberLessThanEqualToZero.LessThanOrEqualToZero(10)}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
         }
     }
 }
