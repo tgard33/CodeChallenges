@@ -36,8 +36,7 @@ namespace program
 
             Console.WriteLine($"{ReturnSomethingToMe.something("is working")}.\n");
 
-            
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"24 hours is equal to {HoursToSec.howManySeconds(24)} seconds.\n");
 
             //Console.WriteLine($" {}.\n");
 
