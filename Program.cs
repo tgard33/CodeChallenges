@@ -30,6 +30,15 @@ namespace program
 
             Console.WriteLine($"Is 10 less than or equal to 0?\n{NumberLessThanEqualToZero.LessThanOrEqualToZero(10)}.\n");
 
+            Console.WriteLine($"Is 23 + 76 less than 100?\n{NumisLessThan100.lessThan100(23,76)}.\n");
+
+            Console.WriteLine($"Are 100 and 10 equal?\n{AreNumbersEqual.equalNumbers(100,10)}.\n");
+
+            Console.WriteLine($"{ReturnSomethingToMe.something("is working")}.\n");
+
+            
+            //Console.WriteLine($" {}.\n");
+
             //Console.WriteLine($" {}.\n");
 
             //Console.WriteLine($" {}.\n");
