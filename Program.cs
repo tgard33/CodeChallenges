@@ -1,4 +1,5 @@
 ﻿using EdabitCodePractice.CodeChallenges;
+using EdabitCodePractice.VeryEasyCodeChallenges;
 using System;
 using System.Collections.Generic;
 
@@ -38,6 +39,12 @@ namespace program
 
             Console.WriteLine($"24 hours is equal to {HoursToSec.howManySeconds(24)} seconds.\n");
 
+            Console.WriteLine($"The sum of internal angles of a 3-sided polygon equals {SumOfPolygonAngles.PolygonSum(3)}.\n");
+            
+            Console.WriteLine($"Concate Mubashir with Edabit = {BasicVariableAssignment.addEdabit("Mubashir")}.\n");
+            
+            //Console.WriteLine($" {}.\n");
+            
             //Console.WriteLine($" {}.\n");
 
             //Console.WriteLine($" {}.\n");
