@@ -47,7 +47,7 @@ namespace program
 
             Console.WriteLine($"I made 3 Two Pointers and 5 Three Pointers. I scored a total of {BasketballPoints.points(3,5)} points.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"The Perimeter of a rectangle with length 6 and width 4 is {RectanglePerimeter.Perimeter(6,4)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
