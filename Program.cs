@@ -49,7 +49,7 @@ namespace program
 
             Console.WriteLine($"The Perimeter of a rectangle with length 6 and width 4 is {RectanglePerimeter.Perimeter(6,4)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"{NameGreeting.Greeting("Tyler")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
