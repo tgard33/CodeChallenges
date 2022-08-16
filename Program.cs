@@ -43,10 +43,10 @@ namespace program
             
             Console.WriteLine($"Concate Mubashir with Edabit = {BasicVariableAssignment.addEdabit("Mubashir")}.\n");
 
-            Console.WriteLine($"If a is false and b is true = {UsingANDANDOperator.AndOperator(false, true)}");
-            
-            //Console.WriteLine($" {}.\n");
-            
+            Console.WriteLine($"If a is false and b is true = {UsingANDANDOperator.AndOperator(false, true)}.\n");
+
+            Console.WriteLine($"I made 3 Two Pointers and 5 Three Pointers. I scored a total of {BasketballPoints.points(3,5)} points.\n");
+
             //Console.WriteLine($" {}.\n");
 
             //Console.WriteLine($" {}.\n");
