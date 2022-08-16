@@ -42,6 +42,8 @@ namespace program
             Console.WriteLine($"The sum of internal angles of a 3-sided polygon equals {SumOfPolygonAngles.PolygonSum(3)}.\n");
             
             Console.WriteLine($"Concate Mubashir with Edabit = {BasicVariableAssignment.addEdabit("Mubashir")}.\n");
+
+            Console.WriteLine($"If a is false and b is true = {UsingANDANDOperator.AndOperator(false, true)}");
             
             //Console.WriteLine($" {}.\n");
             
