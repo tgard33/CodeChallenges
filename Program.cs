@@ -51,6 +51,20 @@ namespace program
 
             Console.WriteLine($"{NameGreeting.Greeting("Tyler")}.\n");
 
+            Console.WriteLine($"I have 2 chickens, 3 cows, and 5 pigs. How many legs do all my animals have combined? {TheFarmProblem.FarmAnimals(2,3,5)}.\n");
+
+            //Next up is football problem
+
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
+            //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
 
         }
