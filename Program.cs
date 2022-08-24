@@ -53,6 +53,8 @@ namespace program
 
             Console.WriteLine($"I have 2 chickens, 3 cows, and 5 pigs. How many legs do all my animals have combined? {TheFarmProblem.FarmAnimals(2,3,5)}.\n");
 
+            Console.WriteLine($"In Fantasy Football I have 2 wins, 3 draws, and 1 loss. How many points do I have? {FootballPoints.totalPoints(2,3,1)}.\n");
+
             //Next up is football problem
 
             //Console.WriteLine($" {}.\n");
