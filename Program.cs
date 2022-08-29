@@ -55,9 +55,11 @@ namespace program
 
             Console.WriteLine($"In Fantasy Football I have 2 wins, 3 draws, and 1 loss. How many points do I have? {FootballPoints.totalPoints(2,3,1)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            //Fix me TG
+            //Console.WriteLine($"What is the first element in the array 5, 6, 7? {Return1stElementInArray.GetFirstValue}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"By converting 12 hours to seconds and 75 minutes to seconds you get a total of {HoursAndMinToSeconds.ConvertingHoursAndSeconds(12, 75)} seconds.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
