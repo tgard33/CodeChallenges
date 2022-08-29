@@ -55,9 +55,8 @@ namespace program
 
             Console.WriteLine($"In Fantasy Football I have 2 wins, 3 draws, and 1 loss. How many points do I have? {FootballPoints.totalPoints(2,3,1)}.\n");
 
-            //Next up is football problem
-
             //Console.WriteLine($" {}.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
