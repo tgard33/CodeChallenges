@@ -70,7 +70,8 @@ namespace program
 
             Console.WriteLine($"Flip integer bool if it is 1 it returns {FlipIntegerBoolean.flipIntegerBool(1)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Does 98 divide by 7 evenly? {DividesEvenly.evenlyDivides(98, 7)}.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
