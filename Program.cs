@@ -62,7 +62,8 @@ namespace program
 
             Console.WriteLine($"Buggy code part 4 outputs Hello + Name unless the name is Mubashir. This is what it outputs for Mubashir: {BuggyCodePT4.greeting("Mubashir")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"The maximum range of a triangles third edge with sides that are 8 and 10 inches long is {MaxEdgeTriangle.MaxEdge(8, 10)} inches.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
