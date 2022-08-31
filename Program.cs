@@ -66,7 +66,8 @@ namespace program
 
             Console.WriteLine($"324 inches converted to feet = {InchesToFeet.inchesToFeet(324)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Is 37 divisible by 5? {DivisibleByFive.divisibleByFive(37)}.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
