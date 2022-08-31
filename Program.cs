@@ -68,7 +68,8 @@ namespace program
 
             Console.WriteLine($"Is 37 divisible by 5? {DivisibleByFive.divisibleByFive(37)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Flip integer bool if it is 1 it returns {FlipIntegerBoolean.flipIntegerBool(1)}.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
