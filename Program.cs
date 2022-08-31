@@ -74,7 +74,8 @@ namespace program
 
             Console.WriteLine($"How many stickers are on a rubix cube with a side length of 3? {NumberOfStickers.rubixCube(3)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"How many Frames are shown in 10 minutes with 25 frames per second? {FramesPerSecond.framesPerSecond(10, 25)}.\n");
+
             //Console.WriteLine($" {}.\n");
 
         }
