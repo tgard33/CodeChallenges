@@ -72,7 +72,8 @@ namespace program
 
             Console.WriteLine($"Does 98 divide by 7 evenly? {DividesEvenly.evenlyDivides(98, 7)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"How many stickers are on a rubix cube with a side length of 3? {NumberOfStickers.rubixCube(3)}.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
 
