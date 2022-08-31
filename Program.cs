@@ -64,7 +64,8 @@ namespace program
 
             Console.WriteLine($"The maximum range of a triangles third edge with sides that are 8 and 10 inches long is {MaxEdgeTriangle.MaxEdge(8, 10)} inches.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"324 inches converted to feet = {InchesToFeet.inchesToFeet(324)}.\n");
+
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
             //Console.WriteLine($" {}.\n");
