@@ -73,8 +73,109 @@ namespace program
 
             Console.WriteLine($"How many Frames are shown in 10 minutes with 25 frames per second? {FramesPerSecond.framesPerSecond(10, 25)}.\n");
 
+            Console.WriteLine($"Is it a profitable gamble if prob is 0.2, prize is 50 and pay is 9? {ProfitableGamble.profitableGamble(0.2, 50, 9)}.\n");
+
+            Console.WriteLine($"Is the number 1,000,561 a multiple of 100? {MultipleOf100.multipleOf100(1000561)}.\n");
+
+            Console.WriteLine($"If it is the 24th day of the 9th month of the year is it time for cookies and milk? {TimeForMilkAndCookies.timeForMilkAndCookies(1997, 24, 9)}.\n");
+
+            Console.WriteLine($"The area of a rectangle with a width of 10 and length of 4 is {AreaOfRectangle.areaOfRectangle(4, 10)}.\n");
+
+            Console.WriteLine($"A stack of boxes has 4 rows. How many total boxes are there? {StackTheBoxes.stackTheBoxes(4)}.\n");
+
+            Console.WriteLine($"Is -5 an odd number? {IsOddNumber.IsOdd(-5)}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
+            //Console.WriteLine($" {}.\n");
+
             //Console.WriteLine($" {}.\n");
 
         }
+
     }
 }
