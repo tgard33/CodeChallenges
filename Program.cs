@@ -87,7 +87,7 @@ namespace program
 
             Console.WriteLine($"For every 6 coffee cups I buy I get the 7th free. If I buy 255, how many total cups do I have? {FreeCoffeeCups.freeCoffeeCups(255)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Concatenate First and Last Name into One String. Input: Tyler Gardner. Result: {ConcatFirstandLast.concatFirstandLast("Tyler", "Gardner")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
