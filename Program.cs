@@ -95,7 +95,7 @@ namespace program
 
             Console.WriteLine($"Does this method return the negative of 57? Result = {ReturnNegative.returnNegative(57)}.\n");
 
-            Console.WriteLine($"If my string input is '' is it null or empty? {IsStringEmpty.isStringEmpty("")}.\n");
+            Console.WriteLine($"If my string input is '    ' is it null or empty? {IsStringEmpty.isStringEmpty("")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
