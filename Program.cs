@@ -93,7 +93,7 @@ namespace program
 
             Console.WriteLine($"Is the word apple an even string? {StringOddOrEven.stringOddOrEven("apple")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Does this method return the negative of 57? Result = {ReturnNegative.returnNegative(57)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
