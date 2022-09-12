@@ -91,7 +91,7 @@ namespace program
 
             Console.WriteLine($"The Nth even number of 100 is {NthEvenNumber.nthEvenNumber(100)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Is the word apple an even string? {StringOddOrEven.stringOddOrEven("apple")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
