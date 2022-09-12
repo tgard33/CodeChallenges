@@ -89,7 +89,7 @@ namespace program
 
             Console.WriteLine($"Concatenate First and Last Name into One String. Input: Tyler Gardner. Result: {ConcatFirstandLast.concatFirstandLast("Tyler", "Gardner")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"The Nth even number of 100 is {NthEvenNumber.nthEvenNumber(100)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
