@@ -10,9 +10,7 @@ namespace EdabitCodePractice.VeryEasyCodeChallenges
     {
         public static bool compareCountOfCharacters(string one, string two)
         { 
-            int oneCount = one.Length;
-            int twoCount = two.Length;
-            if(oneCount == twoCount)
+            if(one.Length == two.Length)
                 return true;
             else
                 return false;
