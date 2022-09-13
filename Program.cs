@@ -97,7 +97,7 @@ namespace program
 
             Console.WriteLine($"If my string input is '    ' is it null or empty? {IsStringEmpty.isStringEmpty("")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Does Gardner and White have the same amount of characters? {CompareCountOfCharacters.compareCountOfCharacters("Gardner", "White")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
