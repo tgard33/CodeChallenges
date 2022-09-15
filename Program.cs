@@ -99,9 +99,9 @@ namespace program
 
             Console.WriteLine($"Does Gardner and White have the same amount of characters? {CompareCountOfCharacters.compareCountOfCharacters("Gardner", "White")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"If I am 21 and not on break, can I serve drinks? {DrinksAllowed.ShouldServeDrinks(21,false)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Is the number 1,234,567 even or odd? {IsEvenOrOdd.isEvenOrOdd(1234567)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
