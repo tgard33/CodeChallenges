@@ -103,7 +103,7 @@ namespace program
 
             Console.WriteLine($"Is the number 1,234,567 even or odd? {IsEvenOrOdd.isEvenOrOdd(1234567)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Return the Absolute value of -33: {RecreatingABSFunction.absolute(-33)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
