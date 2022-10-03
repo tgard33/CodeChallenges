@@ -112,7 +112,7 @@ namespace program
 
             Console.WriteLine($"Does the word Garden end with the letter n? {LastCharacterN.isLastCharacterN("Garden")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"How many characters are in the word discombobulated? {LengthOfString.lengthOfString("discombobulated")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
