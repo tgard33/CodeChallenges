@@ -116,7 +116,7 @@ namespace program
 
             Console.WriteLine($"What is the difference between the max and the min of this array? [1, 3, 5, 7, 12, 33, 24] Max-Min= {MaxMinDiff.difference(new int[] { 1, 3, 5, 7, 12, 33, 24 })}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Convert the string 10000 to an integer. {ReturnStringAsInt.stringToInt("10000")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
