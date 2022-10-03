@@ -118,7 +118,7 @@ namespace program
 
             Console.WriteLine($"Convert the string 10000 to an integer. {ReturnStringAsInt.stringToInt("10000")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Does this string have spaces? Te Amo. {StringHasSpaces.stringHasSpaces("Te Amo")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
