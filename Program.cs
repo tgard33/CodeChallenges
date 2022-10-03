@@ -120,7 +120,7 @@ namespace program
 
             Console.WriteLine($"Does this string have spaces? Te Amo. {StringHasSpaces.stringHasSpaces("Te Amo")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Are these two numbers 6 & 2 both zero, both negative, or both positive? {BothZeroNegOrPos.zeroNegOrPos(6, 2)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
