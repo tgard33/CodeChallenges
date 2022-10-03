@@ -1,5 +1,6 @@
 ﻿using EdabitCodePractice.CodeChallenges;
 using EdabitCodePractice.VeryEasyCodeChallenges;
+using EdabitCodePractice.EasyCodeChallenges;
 using System;
 using System.Collections.Generic;
 
@@ -105,9 +106,9 @@ namespace program
 
             Console.WriteLine($"Return the Absolute value of -33: {RecreatingABSFunction.absolute(-33)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What month is the number 6 associated with? {NumToMonthName.MonthName(6)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"A bridge is safe if it has no spaces. Is this bridge safe #### ###? {BrokenBridge.IsSafeBridge("#### ###")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
