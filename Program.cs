@@ -110,7 +110,7 @@ namespace program
 
             Console.WriteLine($"A bridge is safe if it has no spaces. Is this bridge safe #### ###? {BrokenBridge.IsSafeBridge("#### ###")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Does the word Garden end with the letter n? {LastCharacterN.isLastCharacterN("Garden")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
