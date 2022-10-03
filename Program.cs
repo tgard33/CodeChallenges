@@ -114,7 +114,7 @@ namespace program
 
             Console.WriteLine($"How many characters are in the word discombobulated? {LengthOfString.lengthOfString("discombobulated")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What is the difference between the max and the min of this array? [1, 3, 5, 7, 12, 33, 24] Max-Min= {MaxMinDiff.difference(new int[] { 1, 3, 5, 7, 12, 33, 24 })}.\n");
 
             //Console.WriteLine($" {}.\n");
 
