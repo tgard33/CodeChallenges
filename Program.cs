@@ -122,7 +122,7 @@ namespace program
 
             Console.WriteLine($"Are these two numbers 6 & 2 both zero, both negative, or both positive? {BothZeroNegOrPos.zeroNegOrPos(6, 2)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What is the ASCII value of T? {CharToAscII.CharToASCII('T')}.\n");
 
             //Console.WriteLine($" {}.\n");
 
