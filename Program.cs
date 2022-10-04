@@ -124,7 +124,7 @@ namespace program
 
             Console.WriteLine($"What is the ASCII value of T? {CharToAscII.CharToASCII('T')}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What is the length of this number: 1,233? {LengthOfNumber.numLength(1233)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
