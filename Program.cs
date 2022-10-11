@@ -131,7 +131,7 @@ namespace program
 
             Console.WriteLine($"What is the last element of this array? Cat, Dog, Ham, HamBone:  {GetLastItemInArr.getLastItem(new object[] {"Cat", "Dog", "Ham", "HamBone" })}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Is the word DEEEZNUTS plural? {SingularOrPlural.IsPlural("DEEZNUTS")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
