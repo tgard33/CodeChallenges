@@ -126,7 +126,7 @@ namespace program
 
             Console.WriteLine($"What is the length of this number: 1,233? {LengthOfNumber.numLength(1233)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"If I have 11 pieces of pie, 5 people, and they all want two slices, do I have enough? {SliceOfPie.EqualSlices(11,5,2)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
