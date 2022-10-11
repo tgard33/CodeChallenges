@@ -135,7 +135,7 @@ namespace program
 
             Console.WriteLine($"Should I multiply, divide, subtract or add these two numbers: 12, 12? {QuickMaths.quickMaths(12, 12)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Convert this to a string: 77 {ToStringAndToInt.ToString(77)} and Convert this to an integer: 69 {(ToStringAndToInt.ToInt("69"))}.\n");
 
             //Console.WriteLine($" {}.\n");
 
