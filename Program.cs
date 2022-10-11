@@ -133,7 +133,7 @@ namespace program
 
             Console.WriteLine($"Is the word DEEEZNUTS plural? {SingularOrPlural.IsPlural("DEEZNUTS")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Should I multiply, divide, subtract or add these two numbers: 12, 12? {QuickMaths.quickMaths(12, 12)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
