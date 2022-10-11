@@ -3,6 +3,7 @@ using EdabitCodePractice.VeryEasyCodeChallenges;
 using EdabitCodePractice.EasyCodeChallenges;
 using System;
 using System.Collections.Generic;
+using System.Data.Common;
 
 namespace program
 {
@@ -128,7 +129,7 @@ namespace program
 
             Console.WriteLine($"If I have 11 pieces of pie, 5 people, and they all want two slices, do I have enough? {SliceOfPie.EqualSlices(11,5,2)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What is the last element of this array? Cat, Dog, Ham, HamBone:  {GetLastItemInArr.getLastItem(new object[] {"Cat", "Dog", "Ham", "HamBone" })}.\n");
 
             //Console.WriteLine($" {}.\n");
 
