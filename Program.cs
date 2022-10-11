@@ -137,7 +137,7 @@ namespace program
 
             Console.WriteLine($"Convert this to a string: 77 {ToStringAndToInt.ToString(77)} and Convert this to an integer: 69 {(ToStringAndToInt.ToInt("69"))}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"I have these two numbers: 12, 24 and this string: * What does it result in? {CalculateUsingString.calculation(12, 24, "*")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
