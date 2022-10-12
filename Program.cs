@@ -139,7 +139,7 @@ namespace program
 
             Console.WriteLine($"I have these two numbers: 12, 24 and this string: * What does it result in? {CalculateUsingString.calculation(12, 24, "*")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Concatenate the first and last letter of my name: Tyler Result = {ConcatFirstAndLastChar.concatFirstAndLast("Tyler")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
