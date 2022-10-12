@@ -141,9 +141,9 @@ namespace program
 
             Console.WriteLine($"Concatenate the first and last letter of my name: Tyler Result = {ConcatFirstAndLastChar.concatFirstAndLast("Tyler")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Given the array [12, 33, .333, 10, 3, 0814], return the Min value: {SmallestNumberInArr.smallestInArr(new double[] { 12, 33, .333, 10, 3, 0814 })}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Given the array [12, 33, 10, 3, 0814], return the Max value: {LargestNumInArr.largestNum(new int[] {12, 33, 10, 3, 0814})}.\n");
 
             //Console.WriteLine($" {}.\n");
 
