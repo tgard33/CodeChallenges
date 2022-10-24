@@ -145,7 +145,7 @@ namespace program
 
             Console.WriteLine($"Given the array [12, 33, 10, 3, 0814], return the Max value: {LargestNumInArr.largestNum(new int[] {12, 33, 10, 3, 0814})}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What is the remainder of this division without using modular %: 218/5 = 43.6 Remainder = {ModulusOperatorAlternative.Mod(218,5)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
