@@ -147,7 +147,7 @@ namespace program
 
             Console.WriteLine($"What is the remainder of this division without using modular %: 218/5 = 43.6 Remainder = {ModulusOperatorAlternative.Mod(218,5)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Are the two strings tyler and TYler equal? {CaseInsensitiveComparison.Compare("tyler", "TYler")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
