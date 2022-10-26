@@ -149,7 +149,7 @@ namespace program
 
             Console.WriteLine($"Are the two strings tyler and TYler equal? {CaseInsensitiveComparison.Compare("tyler", "TYler")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"The difference between the max and min values of this array [50, 33, 12, 69, 3] is: {DiffOfMaxAndMinArray.DiffMaxMin(new int[] { 50, 33, 12, 69, 3 })}.\n");
 
             //Console.WriteLine($" {}.\n");
 
