@@ -16,6 +16,14 @@ namespace EdabitCodePractice.VeryEasyCodeChallenges
                 return str.Replace("amazing", "not amazing");
             else
                 return "String does not contain the word edabit or amazing";
+
+
+            //Better way to do it
+            //if (!str.Contains("edabit"))
+            //{
+            //    return str.Replace("amazing", "not amazing");
+            //}
+            //return str;
         }
     }
 }
