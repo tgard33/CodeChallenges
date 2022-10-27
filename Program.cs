@@ -151,7 +151,7 @@ namespace program
 
             Console.WriteLine($"The difference between the max and min values of this array [50, 33, 12, 69, 3] is: {DiffOfMaxAndMinArray.DiffMaxMin(new int[] { 50, 33, 12, 69, 3 })}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Change the string appropriately: 'yankees are amazing' {AmazingEdabit.amazingEdabit("yankees are amazing")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
