@@ -153,7 +153,7 @@ namespace program
 
             Console.WriteLine($"Change the string appropriately: 'yankees are amazing' {AmazingEdabit.amazingEdabit("yankees are amazing")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"What index is the number 5 of this array: 1, 2, 4, 5, 8? Index = {FindTheIndexPT1.finding(new int[] { 1, 2, 4, 5, 8 },5)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
