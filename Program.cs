@@ -155,7 +155,7 @@ namespace program
 
             Console.WriteLine($"What index is the number 5 of this array: 1, 2, 4, 5, 8? Index = {FindTheIndexPT1.finding(new int[] { 1, 2, 4, 5, 8 },5)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Return true if the array [1, 2, 2, 7, 11] contains 10: {ContainsGivenNum.itContains(new int[] {1, 2, 2, 7, 11}, 10)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
