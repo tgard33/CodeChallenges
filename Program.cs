@@ -159,7 +159,7 @@ namespace program
 
             Console.WriteLine($"Does nine match the ending of Feminine? {StringEndingMatchesSecondString.StringMatch("Feminine", "nine")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"For each string in the array add ly to the end. [home, kind, friend] {AddStringEndingToArray.AddToEnd(new string[] {"home", "kind", "friend"}, "ly")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
