@@ -157,7 +157,7 @@ namespace program
 
             Console.WriteLine($"Return true if the array [1, 2, 2, 7, 11] contains 10: {ContainsGivenNum.itContains(new int[] {1, 2, 2, 7, 11}, 10)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Does nine match the ending of Feminine? {StringEndingMatchesSecondString.StringMatch("Feminine", "nine")}.\n");
 
             //Console.WriteLine($" {}.\n");
 
