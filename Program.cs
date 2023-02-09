@@ -159,9 +159,10 @@ namespace program
 
             Console.WriteLine($"Does nine match the ending of Feminine? {StringEndingMatchesSecondString.StringMatch("Feminine", "nine")}.\n");
 
+            // Fix me TG fix output
             Console.WriteLine($"For each string in the array add ly to the end. [home, kind, friend] {AddStringEndingToArray.AddToEnd(new string[] {"home", "kind", "friend"}, "ly")}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"If there are 8 switches, how many different on/off options are there? {OnOffSwitch.PosCom(8)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
