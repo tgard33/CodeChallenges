@@ -160,7 +160,7 @@ namespace program
             Console.WriteLine($"Does nine match the ending of Feminine? {StringEndingMatchesSecondString.StringMatch("Feminine", "nine")}.\n");
 
             // Fix me TG fix output
-            Console.WriteLine($"For each string in the array add ly to the end. [home, kind, friend] {AddStringEndingToArray.AddToEnd(new string[] {"home", "kind", "friend"}, "ly")}.\n");
+            Console.WriteLine($"For each string in the array add ly to the end. [home, kind, friend] {AddStringEndingToArray.AddToEnd(new string[] { "home", "kind", "friend" }, "ly")}.\n");
 
             Console.WriteLine($"If there are 8 switches, how many different on/off options are there? {OnOffSwitch.PosCom(8)}.\n");
 
@@ -170,9 +170,10 @@ namespace program
 
             Console.WriteLine($"My triangle has two angles of 27 and 59, what type of triangle is it?  {MissingThirdAngle.MissingAngle(27, 59)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"I have these values of resistance (1, 5, 6, 3). What is the ohm(s)? {SumResistanceSeriesCircuits.SeriesResistance(new double[] { 1, 5, 6, 3})}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            // Fix me TG fix output
+            Console.WriteLine($"This array (1, 2, 3, 4) in reverse is: {ReverseArray.ReverseArr(new int[] { 1, 2, 3, 4})}.\n");
 
             //Console.WriteLine($" {}.\n");
 
