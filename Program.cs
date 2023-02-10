@@ -164,9 +164,9 @@ namespace program
 
             Console.WriteLine($"If there are 8 switches, how many different on/off options are there? {OnOffSwitch.PosCom(8)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"How many digits are in 1,000,000? {TotalNumOfDigits.FindDigitAmount(1000000)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Change all M's to W's in MOMENT: {Wumbo.Wumbos("MOMENT")}.\n"); //Note this is for all uppercase only
 
             //Console.WriteLine($" {}.\n");
 
