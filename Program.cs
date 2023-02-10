@@ -175,7 +175,7 @@ namespace program
             // Fix me TG fix output
             Console.WriteLine($"This array (1, 2, 3, 4) in reverse is: {ReverseArray.ReverseArr(new int[] { 1, 2, 3, 4})}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"500 Yen's converted to USD equals {YenToUSD.yenToUsd(500)} USD.\n");
 
             //Console.WriteLine($" {}.\n");
 
