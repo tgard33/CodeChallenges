@@ -168,7 +168,7 @@ namespace program
 
             Console.WriteLine($"Change all M's to W's in MOMENT: {Wumbo.Wumbos("MOMENT")}.\n"); //Note this is for all uppercase only
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"My triangle has two angles of 27 and 59, what type of triangle is it?  {MissingThirdAngle.MissingAngle(27, 59)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
