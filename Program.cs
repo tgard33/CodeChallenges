@@ -177,7 +177,7 @@ namespace program
 
             Console.WriteLine($"500 Yen's converted to USD equals {YenToUSD.yenToUsd(500)} USD.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Return the string with 5 a's {Edaaaaaabit.Edaabit(5)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
