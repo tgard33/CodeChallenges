@@ -179,7 +179,7 @@ namespace program
 
             Console.WriteLine($"Return the string with 5 a's {Edaaaaaabit.Edaabit(5)}.\n");
 
-            //Console.WriteLine($" {}.\n");
+            Console.WriteLine($"Return 1 when 0 is the input. Input is 0 Output is = {NoConditionals.Flip(0)}.\n");
 
             //Console.WriteLine($" {}.\n");
 
