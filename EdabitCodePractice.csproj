@@ -8,10 +8,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MediumCodeChallenges\" />
-    <Folder Include="HardCodeChallenges\" />
-    <Folder Include="ExpertCodeChallenges\" />
-    <Folder Include="VeryHardCodeChallenges\" />
+    <Compile Remove="ExpertCodeChallenges\**" />
+    <Compile Remove="HardCodeChallenges\**" />
+    <Compile Remove="MediumCodeChallenges\**" />
+    <Compile Remove="VeryHardCodeChallenges\**" />
+    <EmbeddedResource Remove="ExpertCodeChallenges\**" />
+    <EmbeddedResource Remove="HardCodeChallenges\**" />
+    <EmbeddedResource Remove="MediumCodeChallenges\**" />
+    <EmbeddedResource Remove="VeryHardCodeChallenges\**" />
+    <None Remove="ExpertCodeChallenges\**" />
+    <None Remove="HardCodeChallenges\**" />
+    <None Remove="MediumCodeChallenges\**" />
+    <None Remove="VeryHardCodeChallenges\**" />
   </ItemGroup>
 
 </Project>
